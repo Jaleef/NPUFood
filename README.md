@@ -15,6 +15,10 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
     npx expo start
    ```
+3. press
+   a : open in the android emulator
+   w : open in the web(I recommend this because there no need to install anything)
+   scan the QRcode : which can run any platform where the Expo Go app can be installed
 
 In the output, you'll find options to open the app in a
 
