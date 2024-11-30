@@ -3,6 +3,7 @@ import React from "react";
 import className from "twrnc";
 import SearchIcon from "@/assets/Icons/SearchIcon";
 
+// 目前并没有搜索功能，只是一个搜索框
 const SearchBox = () => {
 	return (
 		<View
